@@ -3,7 +3,7 @@
 ### Telling Stories with Data at Carnegie Mellon University
 
 
-Published Wedsbite: https://tlpierce812.github.io/Trista-Pierce--Portfolio/.
+Published Wedsbite: https://tlpierce812.github.io/TristaPierce-Portfolio/.
 
 # About Me
 Here are a few things about me... 
