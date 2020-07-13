@@ -22,6 +22,8 @@ An effective way to tell a story that people will remember is through data visua
 
 ## Portfolio 
 Projects to be posted soon.
+### Brazil Pension Spending Scatter Plot
 
+[Brazil Scatter Plot](DataWrapper-Brazil.png)
 
 [Link to other page](page2test.md)
