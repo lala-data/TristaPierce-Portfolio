@@ -12,7 +12,11 @@ Personally, I am an adrenaline junkie who loves to travel, cook, and read. After
 
 ## What I hope to learn 
 The left side of my brain loves to explore the mountains of data this world is producing every day, in hopes of finding patterns.  The right side of my brain loves to display this data in creative and attractive ways. 
-There is a Hopi Indian proverb that states: **"Those who tell the stories rule the world"**
+There is a Hopi Indian proverb that states: 
+
+> **"Those who tell the 
+> stories rule the world"**
+
 An effective way to tell a story that people will remember is through data visualizations. I hope to gain the skills neccesary to provide accurate and eye-catching data visualizations, in hopes of portraying a story that will have a lasting impact on the viewer.
 
 ## Portfolio 
