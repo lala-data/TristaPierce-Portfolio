@@ -11,7 +11,8 @@ I am originally from the St. Louis area, residing here in Pittsburgh. However, b
 Personally, I am an adrenaline junkie who loves to travel, cook, and read. After graduate school, I would love to fuse my passion for data, interest in public service, and unique military background to help make a positive impact on as many lives as possible.
 
 ## What I hope to learn 
-The left side of my brain loves to explore the mountains of data this world is producing every day, in hopes of finding patterns.  The right side of my brain loves to display this data in creative and attractive ways. 
+The left side of my brain loves to explore the mountains of data this world is producing every day, in hopes of finding patterns.  The right side of my brain loves to display this data in creative and attractive ways.
+
 There is a Hopi Indian proverb that states: 
 
 > **"Those who tell the 
