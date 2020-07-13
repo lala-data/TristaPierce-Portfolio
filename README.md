@@ -15,3 +15,13 @@ An effective way to tell a story that people will remember is through data visua
 
 # Portfolio 
 Projects to be posted soon.
+
+
+Linking Pages Test... 
+![Image of Self](Good Profile Pic.jfif)
+
+Set size of image
+<img src="Good Profile Pic.jfif" width="200"/>
+
+Link another page
+[Link to other page](page2test.md)
