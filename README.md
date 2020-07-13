@@ -3,7 +3,6 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 Published Website: https://tlpierce812.github.io/TristaPierce-Portfolio/.
 
-Set size of image
 <img src="Good Profile Pic.jfif" width="200"/>
 
 # About Me
