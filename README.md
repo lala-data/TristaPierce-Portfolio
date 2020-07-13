@@ -21,9 +21,8 @@ There is a Hopi Indian proverb that states:
 An effective way to tell a story that people will remember is through data visualizations. I hope to gain the skills neccesary to provide accurate and eye-catching data visualizations, in hopes of portraying a story that will have a lasting impact on the viewer.
 
 ## Portfolio 
-Projects to be posted soon.
-### Brazil Pension Spending Scatter Plot
 
-<img src="DataWrapper-Brazil.png" width="400"/>
+### Brazil Pension Spending Scatter Plot
+<img src="DataWrapper-Brazil.png" width="800"/>
 
 [Link to other page](page2test.md)
