@@ -3,6 +3,9 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 Published Website: https://tlpierce812.github.io/TristaPierce-Portfolio/.
 
+Set size of image
+<img src="Good Profile Pic.jfif" width="200"/>
+
 # About Me
 I'm a current graduate student at CMU, in the Master of Information Science- Business Intelligence and Data Analytics track (MISM-BIDA).
 I am originally from the St. Louis area, residing here in Pittsburgh. However, being a United States Navy veteran, I've been stationed all along the east coast. 
@@ -17,11 +20,4 @@ An effective way to tell a story that people will remember is through data visua
 Projects to be posted soon.
 
 
-Linking Pages Test... 
-![Image of Self](Good Profile Pic.jfif)
-
-Set size of image
-<img src="Good Profile Pic.jfif" width="200"/>
-
-Link another page
 [Link to other page](page2test.md)
