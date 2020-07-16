@@ -20,3 +20,5 @@ This type of visualization allows for individual trend analysis. I kept the colo
 
 ##### Combined Line Graph, generated with Flourish
 I chose to combine the data on a line graph. With the countrys on the same graph, on the same scales, over the same time periods it is easy to compare. I noticed Japan's increasing trend and decdied to highlight that in red. Since the actual data of the other countries is important, but not neccessary to follow individually, I grouped them in a grey scale. I kept clarity in mind with the label and titling positions. I wanted the title, axis labels, and the country labels at the end of the data to properly align. Extra gridlines also would have added unneccesary clutter. 
+
+[Back to Main Page](/README.md)
