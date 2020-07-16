@@ -22,7 +22,8 @@ An effective way to tell a story that people will remember is through data visua
 
 ## Portfolio 
 
-### Brazil Pension Spending Scatter Plot
+### In-class Exercise: Data Viz Critique Redesign
 <img src="DataWrapper-Brazil.png" width="800"/>
+
 ### Data Visualization Assignment #1
 [Link to DataViz](/dataviz2.md)
