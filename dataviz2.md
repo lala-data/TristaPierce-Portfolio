@@ -8,9 +8,9 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/3197940" data-url="https://flo.uri.sh/visualisation/3197940/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+## Government Debt, G20 Countries OECD Data
+###Highlightening Japan's Debt
+<div class="flourish-embed flourish-chart" data-src="visualisation/3198754" data-url="https://flo.uri.sh/visualisation/3198754/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
-## Government Debt for European Unions, OECD
-### Flourish practice
-<div class="flourish-embed flourish-map" data-src="visualisation/3198192" data-url="https://flo.uri.sh/visualisation/3198192/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Chart Comparison 
+Compare and contrast 3 charts and why I chose the third one
