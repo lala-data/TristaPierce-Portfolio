@@ -27,3 +27,6 @@ An effective way to tell a story that people will remember is through data visua
 
 ### Data Visualization Assignment #1
 [Link to DataViz](/dataviz2.md)
+
+### Data Visualization Assignment #1
+[Link to DataViz](/dataviz3&4.md)
