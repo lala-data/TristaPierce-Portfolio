@@ -20,20 +20,25 @@ First, I sketched a redesign on paper and submitted it to three individuals for 
 
 <img src="sketch.jpg" width="800"/>
 
-Feedback
+## Feedback
+
 **Can you tell me what you think this is?**
 - A chart to show 6 different areas of the Pennsylvania Region and how COVID-19 is affecting each area on a daily basis.
 - Graph of the covid covid cases by region in Pennsylvania by week(?)
+
 **Can you describe to me what this is telling you?** 
 - Over a 5 month span, the chart is trying to show the number of cases per day for each area.
 - The way the case count has fluctuated since March. 
+
 **Is there anything you find surprising or confusing?**
 - Surprising - Based on the information, it seems that all areas are trending in the same direction. 
 - Confusing - Charting the cases with a 200 value per day with areas above each other, is hard to tell the true number of cases for each area. 
 - Is it by week? What is the time range represented by the bars? Where do the months start and end? 
+
 **Who do you think is the intended audience for this?**   
 - General public in and outside of the Pennsylvania region, health and government officials 
 - People who live in PA and want to better understand how covid is affecting the state by county  
+
 **Is there anything you would change or do differently?** 
 - The way the chart is set up.  Cases are being shown per day but the months on the bottom are lumped together making it hard to tell a true per day figure.
 - The legend is a little confusing with the colors. It’s kind of hard to read the county names. 
