@@ -18,7 +18,7 @@ The regions are not specified, and a cumulative case amount was not displayed. A
 ## The Process of Design 
 First, I sketched a redesign on paper and submitted it to three individuals for feedback. 
 
-<img src="sketch.png" width="800"/>
+<img src="sketch.jpg" width="800"/>
 
 I chose a stacked bar graph to capture not only individual region case numbers but also state wide cumulative amounts. 
 I also created a color-code map of the regions, vice just a color legend. 
