@@ -1,0 +1,33 @@
+# Critique By Design 
+Assignment 3 and 4
+
+
+## Original Data Visualization
+
+<img src="Good Profile Pic.jfif" width="200"/>
+
+With the second spike of COVID-19 cases sweeping the nation, I wanted to research PA cases. 
+I found this visualization which explains the cases reported by day for each region. 
+I believe the information on the current graph is valuable, but there was a lot of room for improvement. 
+
+Using  Stephen Few's Data Visualization Effectiveness critique method, I saw that the current format of the visualization was not complete. 
+The regions are not specified, and a cumulative case amount was not displayed. Also, the data of regions with low numbers was not easily readable. 
+
+## The Process of Design 
+First, I sketched a redesign on paper and submitted it to three individuals for feedback. 
+
+<img src="Good Profile Pic.jfif" width="200"/>
+
+I chose a stacked bar graph to capture not only individual region case numbers but also state wide cumulative amounts. 
+I also created a color-code map of the regions, vice just a color legend. 
+This allows for even more information, because the audience might not be familiar with or be able to visualize each region. 
+During my sketch, I knew I would have to case my x-axis wisely, and my color scheme appropriately to fit both the graph and the map. 
+The feedback I received but that the bars in the graph were not easily differentiable, this level to me stacking them differently.
+
+
+## Final Product
+
+<img src="Good Profile Pic.jfif" width="200"/>
+
+During the build process, I reviewed color choices and thought a red-yellow sequential scale would make the most sense. 
+It allowed for quick insight on areas with the most cases. I used coolors.co to create my own palette. 
