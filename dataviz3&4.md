@@ -4,6 +4,7 @@
 ## Original Data Visualization
 
 <img src="ogdataviz.png" width="800"/>
+
 Source: [PA Health](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
 
 
@@ -11,9 +12,8 @@ With the second spike of COVID-19 cases sweeping the nation, I wanted to researc
 I found this visualization which explains the cases reported by day for each region. 
 I believe the information on the current graph is valuable, but there was a lot of room for improvement. 
 
-Using  Stephen Few's Data Visualization Effectiveness critique method, I saw that the current format of the visualization was not complete. 
-The regions are not specified, and a cumulative case amount was not displayed. Also, the data of regions with low numbers was not easily readable. 
-
+Using Stephen Few's Data Visualization Effectiveness critique method, I saw that the current format of the visualization was not complete. 
+The regions are not specified and a cumulative case amount was not displayed. Also, the data of regions with low numbers was not easily readable. 
 
 ## The Process of Design 
 First, I sketched a redesign on paper and submitted it to three individuals for feedback. 
@@ -24,7 +24,8 @@ I chose a stacked bar graph to capture not only individual region case numbers b
 I also created a color-code map of the regions, vice just a color legend. 
 This allows for even more information, because the audience might not be familiar with or be able to visualize each region. 
 During my sketch, I knew I would have to case my x-axis wisely, and my color scheme appropriately to fit both the graph and the map. 
-The feedback I received but that the bars in the graph were not easily differentiable, this level to me stacking them differently.
+The feedback I received but that the bars in the graph were not easily differentiable, this level to me stacking them differently. 
+One individual also pointed out that there were only months on the x-axis and not days, which led to me keep some date milestones and not just months. 
 
 
 ## Final Product
@@ -40,3 +41,8 @@ The feedback I received but that the bars in the graph were not easily different
 if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
 else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+During the build process, I reviewed color choices and thought a red-yellow sequential scale would make the most sense. 
+It allowed for quick insight on areas with the most cases. I used coolors.co to create my own palette. 
+Creating the colored map was a good learning experience for me with the use of Tableaa! I learned alot more about the possibilites and navigation of the software. 
