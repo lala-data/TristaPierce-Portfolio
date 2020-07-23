@@ -22,7 +22,9 @@ First, I sketched a redesign on paper and submitted it to three individuals for 
 
 I chose a stacked bar graph to capture not only individual region case numbers but also state wide cumulative amounts. 
 I also created a color-code map of the regions, vice just a color legend. 
-This allows for even more information, because the audience might not be familiar with or be able to visualize each region. 
+The audience might not be familiar PA regions nor be able to visualize each region mentally. 
+
+
 During my sketch, I knew I would have to case my x-axis wisely, and my color scheme appropriately to fit both the graph and the map. 
 The feedback I received but that the bars in the graph were not easily differentiable, this level to me stacking them differently. 
 One individual also pointed out that there were only months on the x-axis and not days, which led to me keep some date milestones and not just months. 
