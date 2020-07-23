@@ -45,6 +45,8 @@ else { vizElement.style.width='100%';vizElement.style.height='727px';} var scrip
 vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 
+
+
 During the build process, I reviewed color choices and thought a very deep red to pale blue sequential scale would make the most sense. 
 It allowed for quick insight on areas with the most cases. I used coolors.co to create my own palette. 
 Creating the colored map was a good learning experience for me with the use of Tableau! I learned alot more about the possibilites and navigation of the software. 
