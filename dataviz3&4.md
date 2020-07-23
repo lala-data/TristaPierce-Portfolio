@@ -1,5 +1,4 @@
 # Critique By Design 
-Assignment 3 and 4
 
 
 ## Original Data Visualization
@@ -7,12 +6,14 @@ Assignment 3 and 4
 <img src="ogdataviz.png" width="800"/>
 Source: [PA Health](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
 
+
 With the second spike of COVID-19 cases sweeping the nation, I wanted to research PA cases. 
 I found this visualization which explains the cases reported by day for each region. 
 I believe the information on the current graph is valuable, but there was a lot of room for improvement. 
 
 Using  Stephen Few's Data Visualization Effectiveness critique method, I saw that the current format of the visualization was not complete. 
 The regions are not specified, and a cumulative case amount was not displayed. Also, the data of regions with low numbers was not easily readable. 
+
 
 ## The Process of Design 
 First, I sketched a redesign on paper and submitted it to three individuals for feedback. 
