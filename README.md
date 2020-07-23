@@ -25,8 +25,8 @@ An effective way to tell a story that people will remember is through data visua
 ### In-class Exercise: Data Viz Critique Redesign
 <img src="DataWrapper-Brazil.png" width="800"/>
 
-### Data Visualization Assignment #1
+### Data Visualization Critique #1
 [Link to DataViz](/dataviz2.md)
 
-### Data Visualization Assignment #1
+### Assignment 3&4, Critique by Design
 [Link to DataViz](/dataviz3&4.md)
