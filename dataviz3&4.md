@@ -20,6 +20,7 @@ First, I sketched a redesign on paper and submitted it to three individuals for 
 
 <img src="sketch.jpg" width="800"/>
 
+
 ## Feedback
 
 **Can you tell me what you think this is?**
@@ -52,6 +53,7 @@ The audience might not be familiar PA regions nor be able to visualize each regi
 During my sketch, I knew I would have to case my x-axis wisely, and my color scheme appropriately to fit both the graph and the map. 
 The feedback I received but that the bars in the graph were not easily differentiable, this level to me stacking them differently. 
 One individual also pointed out that there were only months on the x-axis and not days, which led to me keep some date milestones and not just months. 
+
 
 
 ## Final Product
