@@ -13,21 +13,21 @@ I want to address the topics of tech industries, universities, culture, restaura
 
 ## StoryArc/Sketch:
 This is my StoryArc: the feelings I want me reader to experience during their viewing. 
-<insert image>
+
   
 ## Wireframe: 
-<img src="ProjectPart1.png" width="1000"/>
+<img src="ProjectPart1.png" width="800"/>
 
    
 ## Presentation Method: 
 I will be constructing my visualizations with using Tableau and Infogram. As of now, I believe I will have 5 visualizations to construct. Some are simple and some more involved. Information on the types of visualizations I plan on using are above in the wireframe and below in the Data section. For my presentation, I will be constructing a project in Shorthand. Shorthand has imagery and scrolling features that I will incorporate.
 
 ## Data:
-<ins>Industry Data:</ins> I will be using dates from company entries into Pittsburgh and create a timeline of their arrival. Data was scraped from this [report](https://www.innovationworks.org/wp-content/uploads/2018/03/IW-EY-report-2008-to-2017.pdf) and put into an **<EXCEL>** file. 
+<ins>Industry Data:</ins> I will be using dates from company entries into Pittsburgh and create a timeline of their arrival. Data was scraped from this [report](https://www.innovationworks.org/wp-content/uploads/2018/03/IW-EY-report-2008-to-2017.pdf) and put into an [Excel](/TechCompany.xlsx) file.
 
 <ins>University Data:</ins> I will be using information scraped from [QS University Subject Rankings](https://www.topuniversities.com/subject-rankings/2020) on top rated programs in Pittsburgh at different universities and I will be formulating a table. 
 
-<ins>Sports Data:</ins> I have compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an **<EXCEL>** file.  I will be displaying them by organization and I plan on using their logos as a way to visualize each team. 
+<ins>Sports Data:</ins> I have compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I will be displaying them by organization and I plan on using their logos as a way to visualize each team. 
   
 <ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](websitehttps://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figures) and will be highlighting it in text.
 
