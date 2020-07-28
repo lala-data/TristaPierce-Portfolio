@@ -16,7 +16,7 @@ This is my StoryArc: the feelings I want me reader to experience during their vi
 <insert image>
   
 ## Wireframe: 
-<insert image>
+<embed src="/ProjectPart1.pdf" type="application/pdf" />
    
 ## Presentation Method: 
 I will be constructing my visualizations with using Tableau and Infogram. As of now, I believe I will have 5 visualizations to construct. Some are simple and some more involved. Information on the types of visualizations I plan on using are above in the wireframe and below in the Data section. For my presentation, I will be constructing a project in Shorthand. Shorthand has imagery and scrolling features that I will incorporate.
@@ -32,7 +32,7 @@ I will be constructing my visualizations with using Tableau and Infogram. As of 
 
 <ins>Restaurant Data:</ins> I will be using geo-location data from [OpenData](http://pghgis-pittsburghpa.opendata.arcgis.com/datasets/3ca13246362540fa8b4b567f84a1255b_0?uiTab=table>) to create a map, and then I will be scraping Yelp for data on 5 different restaurants in Pittsburgh I want to highlight. I haven’t decided which restaurants I want to highlight, but I think it will be one from each popular neighborhood: Mt. Washington, Lawrenceville, Downtown, Shadyside and Squirrel Hill.
 
-<ins>Affordability Data:</ins> I found this dataset on [Numbeo](https://www.numbeo.com/cost-of-living/) and transformed it to an **<Excel>**. I plan on using a bar chart to highlight Pittsburgh’s ranking, and then point out other high-tech cities such as San Fran, Denver, Austin, NYC. 
+<ins>Affordability Data:</ins> I found this dataset on [Numbeo](https://www.numbeo.com/cost-of-living/) and transformed it to an [Excel](/Affordablity.csv). I plan on using a bar chart to highlight Pittsburgh’s ranking, and then point out other high-tech cities such as San Fran, Denver, Austin, NYC. 
   
   
 ## User Research Protocol and Interviews and Feedback:
