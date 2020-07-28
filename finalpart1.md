@@ -13,8 +13,9 @@ I want to address the topics of tech industries, universities, culture, restaura
  -	What is a restaurant and bar scene like?
  -  How affordable is it to live there?
 
-## StoryArc/Sketch:
+## StoryArc Sketch:
 This is my StoryArc: the feelings I want me reader to experience during their viewing. 
+<img src="storyarc.jpg" width="800/>
 
   
 ## Wireframe: 
