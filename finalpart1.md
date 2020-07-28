@@ -61,3 +61,7 @@ To be added!
 
 ## Final Project Expected Challenges:
 In part 2 of the project I will be incorporating my feedback into my design as well as finishing my visualizations and building the Shorthand presentation. I expect my biggest challenge to be in building changing my restaurant data to a page on outdoor activity. I will also be getting familiar with Shorthand for the first time. I believe I have done enough research and preparation to finish my project by the due date, August 5th. 
+
+
+[Back to Portfolio Page](/README.md)
+
