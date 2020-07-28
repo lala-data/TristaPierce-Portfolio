@@ -1,4 +1,4 @@
-### Final Project, Part 1
+# Final Project, Part 1
 
 ## Purpose:
 I moved to Pittsburgh 3 years ago and have fallen in love with the city. Pittsburgh, known as a quintessential rust-belt city, has made a remarkable recovery after the crash of the steel industry and it is thriving with new industries and culture. I do not think this is common knowledge to individuals who have no visited or lived here. 
