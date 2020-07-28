@@ -1,11 +1,9 @@
 ## Purpose/Interest:
 I moved to Pittsburgh 3 years ago and have fallen in love with the city. Pittsburgh, known as a quintessential rust-belt city, has made a remarkable recovery after the crash of the steel industry and it is thriving with new industries and culture. I do not think this is common knowledge to individuals who have no visited or lived here. 
 
-
 ## Target of Story:
 My targeted audience is successful individuals and students who would originally flock to the Bay area, NYC, Austin, Denver, etc. As a reader, I would want learn more about Pittsburgh so I can consider relocation opportunities. 
 
-Topics to Discuss:
 I want to address the topics of tech industries, universities, culture, restaurants, and affordability in my design. Questions I aim to address are: 
  -	What tech industries are in Pittsburgh?
  -	What good university programs are in Pittsburgh?
@@ -22,7 +20,6 @@ This is my StoryArc: the feelings I want me reader to experience during their vi
    
 ## Presentation Method: 
 I will be constructing my visualizations with using Tableau and Infogram. As of now, I believe I will have 5 visualizations to construct. Some are simple and some more involved. Information on the types of visualizations I plan on using are above in the wireframe and below in the Data section. For my presentation, I will be constructing a project in Shorthand. Shorthand has imagery and scrolling features that I will incorporate.
-
 
 ## Data:
 <ins>Industry Data:</ins> I will be using dates from company entries into Pittsburgh and create a timeline of their arrival. Data was scraped from this [report](https://www.innovationworks.org/wp-content/uploads/2018/03/IW-EY-report-2008-to-2017.pdf) and put into an **<EXCEL>** file. 
@@ -59,7 +56,7 @@ I am friends or family to all the interviewees, so I will briefly describe the p
   5. What do you think my “call to action” is?
   6. Would this compel you to consider living in Pittsburgh?
 
-** D. Feedback:**
+**D. Feedback:**
 To be added!
 
 ## Final Project Expected Challenges:
