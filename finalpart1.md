@@ -44,16 +44,16 @@ I will be constructing my visualizations using Tableau and Infogram. As of now, 
 
 **B. Identifying Interviewees:** I have chosen four individuals for feedback on my story. I have decided these because they are all from different backgrounds and have different exposures to Pittsburgh. 
 
-  1. Mid 20s CMU graduate student who is contemplating future employment locations
-  2. Mid 30s highly educated experience in data and design with little Pittsburgh experience
-  3. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
-  4. Mid 30s Pittsburgh native with a deep-seated love of the city
+  A. Mid 20s CMU graduate student who is contemplating future employment locations
+  B. Mid 30s highly educated experience in data and design with little Pittsburgh experience
+  C. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
+  D. Mid 30s Pittsburgh native with a deep-seated love of the city
 
 **C. Interview Script and Questions:**
 I will be providing the following information to my interviewees in hopes of identifying any information that is unclear, any ideas that could be improved and to gauge whether or not I am telling my story effectively. I will be conducting this interview by emailing them my wireframe and having them answer questions via phone call. 
 I am friends or family to all the interviewees, so I will briefly describe the purpose of the project and discuss the use of a wireframe. I will then ask the following questions after they take 1-2 minutes to review the wireframe: 
 
-  1. What do you think the story I am telling is?
+  1. It is clear what story I am trying to tell? 
   2. What is unclear or confusing?
   3. What stands out and is very memorable?
   4. What other information would you like to see?
@@ -61,6 +61,13 @@ I am friends or family to all the interviewees, so I will briefly describe the p
   6. Would this compel you to consider living in Pittsburgh?
 
 **D. Feedback:**
+  1. 
+  2. 
+  3.
+  4. 
+  5. 
+  6. 
+  
 
 To be added!
 
