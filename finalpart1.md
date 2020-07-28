@@ -15,11 +15,11 @@ I want to address the topics of tech industries, universities, culture, restaura
 
 ## StoryArc Sketch:
 This is my StoryArc: the feelings I want me reader to experience during their viewing. 
-<img src="storyarc.jpg" width="800/>
+<img src="storyarc.jpg" width="800"/>
 
   
 ## Wireframe: 
-<img src="wireframe.png" width="800"/>
+<img src="wireframe.png" width="1000"/>
 
    
 ## Presentation Method: 
