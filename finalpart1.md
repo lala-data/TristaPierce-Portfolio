@@ -16,7 +16,8 @@ This is my StoryArc: the feelings I want me reader to experience during their vi
 <insert image>
   
 ## Wireframe: 
-<embed src="/ProjectPart1.pdf" type="application/pdf" />
+<img src="ProjectPart1.png" width="1000"/>
+
    
 ## Presentation Method: 
 I will be constructing my visualizations with using Tableau and Infogram. As of now, I believe I will have 5 visualizations to construct. Some are simple and some more involved. Information on the types of visualizations I plan on using are above in the wireframe and below in the Data section. For my presentation, I will be constructing a project in Shorthand. Shorthand has imagery and scrolling features that I will incorporate.
