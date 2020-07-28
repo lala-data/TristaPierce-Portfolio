@@ -9,8 +9,8 @@ My targeted audience is successful individuals and students who would originally
 I want to address the topics of tech industries, universities, culture, restaurants, and affordability in my design. Questions I aim to address are: 
   - What tech industries are in Pittsburgh?
   - What good university programs are in Pittsburgh?
-  -	What is the culture like in Pittsburgh?
-  - What is a restaurant and bar scene like?
+  -	What is the culture like in Pittsburgh?
+  - What is a restaurant and bar scene like?
   - How affordable is it to live there?
 
 ## StoryArc Sketch:
@@ -45,7 +45,7 @@ I will be constructing my visualizations using Tableau and Infogram. As of now, 
 **B. Identifying Interviewees:** I have chosen four individuals for feedback on my story. I have decided these because they are all from different backgrounds and have different exposures to Pittsburgh. 
 
   1. Mid 20s CMU graduate student who is contemplating future employment locations
-  2. Mid 30s highly educated experience in data and design with little Pittsburgh experience
+  2. Mid 30s highly educated experience in data and design with little Pittsburgh experience
   3. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
   4. Mid 30s Pittsburgh native with a deep-seated love of the city
 
