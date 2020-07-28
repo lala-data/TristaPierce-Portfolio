@@ -16,7 +16,7 @@ This is my StoryArc: the feelings I want me reader to experience during their vi
 
   
 ## Wireframe: 
-<img src="ProjectPart1.png" width="800"/>
+<img src="wireframe.png" width="800"/>
 
    
 ## Presentation Method: 
