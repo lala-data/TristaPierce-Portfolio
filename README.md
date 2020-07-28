@@ -30,3 +30,6 @@ An effective way to tell a story that people will remember is through data visua
 
 ### Assignment 3&4, Critique by Design
 [Link to DataViz](/dataviz3&4.md)
+
+### Final, Part 1
+[Link to Part 1](/finalpart1.md)
