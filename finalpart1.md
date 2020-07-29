@@ -30,8 +30,8 @@ I will be constructing my visualizations using Tableau and Infogram. As of now, 
 
 <ins>University Data:</ins> I will be using information scraped from [QS University Subject Rankings](https://www.topuniversities.com/subject-rankings/2020) on top-rated programs in Pittsburgh at different universities and I will be formulating a table. 
 
-<ins>Sports Data:</ins> I have compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I will be displaying them by the organization and I plan on using their logos as a way to visualize each team. 
-  
+<ins>Sports Data:</ins> I have compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I will be displaying them by the organization and I plan on using their logos as a way to visualize each team.
+
 <ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](websitehttps://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figures) and will be highlighting it in text.
 
 <ins>Restaurant Data:</ins> I will be using geolocation data from [OpenData](http://pghgis-pittsburghpa.opendata.arcgis.com/datasets/3ca13246362540fa8b4b567f84a1255b_0?uiTab=table>) to create a map, and then I will be scraping Yelp for data on 5 different restaurants in Pittsburgh I want to highlight. I haven’t decided which restaurants I want to highlight, but I think it will be one from each popular neighborhood: Mt. Washington, Lawrenceville, Downtown, Shadyside, and Squirrel Hill.
@@ -44,10 +44,10 @@ I will be constructing my visualizations using Tableau and Infogram. As of now, 
 
 **B. Identifying Interviewees:** I have chosen four individuals for feedback on my story. I have decided these because they are all from different backgrounds and have different exposures to Pittsburgh. 
 
-  A. Mid 20s CMU graduate student who is contemplating future employment locations
-  B. Mid 30s highly educated experience in data and design with little Pittsburgh experience
-  C. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
-  D. Mid 30s Pittsburgh native with a deep-seated love of the city
+    A. Mid 20s CMU graduate student who is contemplating future employment locations
+    B. Mid 30s highly educated experience in data and design with little Pittsburgh experience
+    C. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
+    D. Mid 30s Pittsburgh native with a deep-seated love of the city
 
 **C. Interview Script and Questions:**
 I will be providing the following information to my interviewees in hopes of identifying any information that is unclear, any ideas that could be improved and to gauge whether or not I am telling my story effectively. I will be conducting this interview by emailing them my wireframe and having them answer questions via phone call. 
@@ -61,18 +61,12 @@ I am friends or family to all the interviewees, so I will briefly describe the p
   6. Would this compel you to consider living in Pittsburgh?
 
 **D. Feedback:**
-  1. 
-  2. 
-  3.
-  4. 
-  5. 
-  6. 
-  
+ I have incorporated my feedback into the wireframe below
+ <img src="feedback.png" width="1000"/>
 
-To be added!
 
 ## Final Project Expected Challenges:
-In part 2 of the project, I will be incorporating my feedback into my design as well as finishing my visualizations and building the Shorthand presentation. I expect my biggest challenge to be in building changing my restaurant data to a page on outdoor activity. I will also be getting familiar with Shorthand for the first time. I believe I have done enough research and preparation to finish my project by the due date, August 5th. 
+In part 2 of the project, I will be incorporating my feedback into my design as well as finishing my visualizations and building the Shorthand presentation. I expect my biggest challenge to be in building a section on outdoor activities as well as adjusting the way I present the arts. I expect the map of restaurants to be the hardest visualization to implement. I will also be getting familiar with Shorthand for the first time. I believe I have done enough research and preparation to finish my project by the due date, August 5th. 
 
 
 [Back to Portfolio Page](/README.md)
