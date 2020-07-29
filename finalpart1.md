@@ -42,12 +42,13 @@ I will be constructing my visualizations using Tableau and Infogram. As of now, 
 ## User Research Protocol and Interviews and Feedback:
 **A. Target Audience:** My story is targeting a specific audience, individuals looking to relocate for work or school. I am aiming to teach them about what Pittsburgh has to offer and why they could reconsider it, compared to other big cities. This with the purpose to increase the Pittsburgh economy and keep the city on an upward swing. 
 
-**B. Identifying Interviewees:** I have chosen four individuals for feedback on my story. I have decided these because they are all from different backgrounds and have different exposures to Pittsburgh. 
+**B. Identifying Interviewees:** I have chosen five individuals for feedback on my story. I chose these five because they are all from different backgrounds and have different exposures to Pittsburgh. Also, three of them would be considered my target audience. 
 
-    A. Mid 20s CMU graduate student who is contemplating future employment locations
-    B. Mid 30s highly educated experience in data and design with little Pittsburgh experience
-    C. Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
-    D. Mid 30s Pittsburgh native with a deep-seated love of the city
+  - Mid 20s CMU graduate student who is contemplating future employment location
+  - Mid 30s highly educated experience in data and design with little Pittsburgh experience
+  - Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
+  - Mid 30s Pittsburgh native with a deep-seated love of the city
+  - Early 20s recent arts undergraduate contemplating future employment or higher education
 
 **C. Interview Script and Questions:**
 I will be providing the following information to my interviewees in hopes of identifying any information that is unclear, any ideas that could be improved and to gauge whether or not I am telling my story effectively. I will be conducting this interview by emailing them my wireframe and having them answer questions via phone call. 
