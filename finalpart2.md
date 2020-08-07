@@ -25,7 +25,7 @@ The story I wanted to tell aimed at the following ideas:
 
 <ins>Sports Data:</ins> I compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I displayed them by the organization, using their logos on a bar graph. 
 
-<ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](websitehttps://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figures) I made a pictograph to compare attendance. 
+<ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](https://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figuress) I made a pictograph to compare attendance. 
  
     
 ## StoryArc Sketch:
