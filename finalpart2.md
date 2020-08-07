@@ -63,6 +63,8 @@ I am friends or family to all the interviewees, so I will briefly describe the p
  
  
 ## Final Data Story 
+[Published Final Project](https://carnegiemellon.shorthandstories.com/PittsburghPA/index.html): Build Your New Beginnings in the City of Bridges!
+
 **Focusing On the Targeted Audience**
 As previously described, my targeted audience includes successful individuals and students who would originally flock to the Bay Area, NYC, Austin, Denver, etc. As a reader, I would want to learn more about Pittsburgh so I can consider relocation opportunities. 
 After more research and feedback, I realized I have a lot of individuals in my life that are exactly this target audience. I myself, as a soon to be transitioning graduate student falls into this audience. So I reflected about what is important to myself and others in my life and asked a lot of questions. Would they care about the arts, would they care about the outdoors? Mostly, I got the same feedback as I would have given…. Yes, I do. However, opportunity trumps everything else. Therefore, I really wanted to highlight tech jobs, college universities and affordability right up front. Then, keeping the fun/engaging slides towards the back. I specifically did add a slide featuring some information on the doors due to it being a consistent feedback from my original work. 
