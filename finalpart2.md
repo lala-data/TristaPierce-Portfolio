@@ -22,8 +22,7 @@ The story I wanted to tell aimed at the following ideas:
 <ins>Affordability Data:</ins> I found this dataset on [Numbeo](https://www.numbeo.com/cost-of-living/) and transformed it to an [Excel](/Affordablity.csv). I used a bar chart to highlight Pittsburgh’s ranking compared to other high-tech cities such as San Fran, Denver, Austin, NYC. I also found median housing prices on Zillow and used those to created an infographic. 
 <ins>Sports Data:</ins> I compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I displayed them by the organization, using their logos on a bar graph. 
 <ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](websitehttps://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figures) I made a pictograph to compare attendance. 
-<ins>Affordability Data:</ins> I found this dataset on [Numbeo](https://www.numbeo.com/cost-of-living/) and transformed it to an [Excel](/Affordablity.csv). I plan on using a bar chart to highlight Pittsburgh’s ranking, and then point out other high-tech cities such as San Fran, Denver, Austin, NYC. 
-  
+ 
     
 ## StoryArc Sketch:
 This is my StoryArc: the feelings I want me reader to experience during their viewing. 
@@ -57,26 +56,30 @@ I am friends or family to all the interviewees, so I will briefly describe the p
 **D. Feedback:**
  I have incorporated my feedback into the wireframe below
  <img src="feedback.png" width="1000"/>
-
-
+ 
+ 
 ## Final Data Story 
 **Focusing On the Targeted Audience**
 As previously described, my targeted audience includes successful individuals and students who would originally flock to the Bay Area, NYC, Austin, Denver, etc. As a reader, I would want to learn more about Pittsburgh so I can consider relocation opportunities. 
 After more research and feedback, I realized I have a lot of individuals in my life that are exactly this target audience. I myself, as a soon to be transitioning graduate student falls into this audience. So I reflected about what is important to myself and others in my life and asked a lot of questions. Would they care about the arts, would they care about the outdoors? Mostly, I got the same feedback as I would have given…. Yes, I do. However, opportunity trumps everything else. Therefore, I really wanted to highlight tech jobs, college universities and affordability right up front. Then, keeping the fun/engaging slides towards the back. I specifically did add a slide featuring some information on the doors due to it being a consistent feedback from my original work. 
 
+Final update after design process into the wireframe below
+ <img src="final wire frame.png" width="1000"/>
+
 **Design Decisions Along the Way** 
-Presentation Method- Shorthand: To be honest, using Shorthand for the first time was a blessing and a curse. I love the features it has, compared to PowerPoint. However, it’s not as customizable as I originally hoped while planning. Having one a few section types to pick from and limited knowledge of how to capitalize on them made it frustrating at first. 
+Shorthand: To be honest, using Shorthand for the first time was a blessing and a curse. I love the features it has, compared to PowerPoint. However, it’s not as customizable as I originally hoped while planning. Having one a few section types to pick from and limited knowledge of how to capitalize on them made it frustrating at first. 
 It’s major highlight is the scrolling ability and the ability to add high quality engaging and transforming graphics. I realized right away that I needed a source for images. I signed up for a free subscription trial to Shutterstock, which helped a lot!
 
-Design Decisions by Topic: 
+Data Visualizations: 
 1. Technology Timeline: I first tried Infogram but did not love the lack of customizable activity, so I used Canva to implement this timeline. It was the first time I realized Canvas ability to make attractive and accurate visualizations. I made 2 versions: one that was horizontal and one vertical and asked for feedback from individuals. Overall, due the scrolling capabilities on Shorthand, it was attractive to go with the vertical option. 
 2. Universities: I made an infographic from Canva. At first I was going to construct a table, however, it was not attractive nor did it display as much information as I wanted it to. I kept the colors consistent and used a paper background as a way a small touch to add on a infographic of education. 
 3. Affordability: I made a bar graph highlighting Pittsburgh’s “affordability” rating compared to other large and midsized cities, in Tableau. I also called out home median prices for Pittsburgh vice the national average. I wasn’t going to add that originally, but I thought the idea and topic needed more color and depth than just the bar graph. 
-4. Sports
-5. Arts
-6. Dining
-7. Outdoors
-8. Visit
+4. Sports: I used a bit of creativity and Infogram to create the bar chart, I wanted to incorporate the logos and years to make a clearly visually stimulating graphic. 
+5. Arts: This was one of the most intriguing stats, Pittsburgh is known as a sports city. So I’d not realize the major arts and the Pittsburgh Cultural Trust influence on the city. I used Infogram to great a pictograph and call out the important statistics.
+
+I was going to add more about dining and the outdoors, but honestly fell short on time. Also, my GIS data for the restaurants ended up not loading in Tableau correctly nor do I have ArcGIS on my new computer. But I would like to take another stab at it in the future. 
+
+Overall, from this project, I learned there are many tools to use and ways to portray data. Sometimes the simplest and clear way is better than complicated graphs. I had a lot of fun building my story. I am inspired to use another topic I am very passionate about to build another story in the near future to keep practicing my data visualization skills. 
 
 
 
