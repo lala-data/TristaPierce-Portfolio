@@ -18,9 +18,13 @@ The story I wanted to tell aimed at the following ideas:
 
 ## Data:
 <ins>Industry Data:</ins> I used dates from company entries into Pittsburgh and created a timeline of their arrival. Data was scraped from this [report](https://www.innovationworks.org/wp-content/uploads/2018/03/IW-EY-report-2008-to-2017.pdf) and put into an [Excel](/TechCompany.xlsx) file.
+
 <ins>University Data:</ins> I used  information scraped from [QS University Subject Rankings](https://www.topuniversities.com/subject-rankings/2020) on top-rated programs in Pittsburgh at different universities and constructed an infographic of information.  
+
 <ins>Affordability Data:</ins> I found this dataset on [Numbeo](https://www.numbeo.com/cost-of-living/) and transformed it to an [Excel](/Affordablity.csv). I used a bar chart to highlight Pittsburgh’s ranking compared to other high-tech cities such as San Fran, Denver, Austin, NYC. I also found median housing prices on Zillow and used those to created an infographic. 
+
 <ins>Sports Data:</ins> I compiled a list of national championships, from Google's [database](https://www.google.com/search?q=pittsburgh+steelers+super+bowl+wins&rlz=1C1EJFC_enUS874US874&oq=pittsburgh+steelers+superbowl&aqs=chrome.1.69i57j0l7.25403j1j9&sourceid=chrome&ie=UTF-8) and manipulated turned it into an [Excel](/SportsData.xlsx) file.  I displayed them by the organization, using their logos on a bar graph. 
+
 <ins>Art Data:</ins> I found some interesting statistics from [Pittsburgh Art Council](websitehttps://www.pittsburghartscouncil.org/advocacy/take-action/facts-and-figures) I made a pictograph to compare attendance. 
  
     
@@ -67,7 +71,8 @@ Final update after design process into the wireframe below
  <img src="final wire frame.png" width="1000"/>
 
 **Design Decisions Along the Way** 
-Shorthand: To be honest, using Shorthand for the first time was a blessing and a curse. I love the features it has, compared to PowerPoint. However, it’s not as customizable as I originally hoped while planning. Having one a few section types to pick from and limited knowledge of how to capitalize on them made it frustrating at first. 
+
+Shorthand: To be honest, using Shorthand for the first time was a blessing and a curse. I love the features it has, compared to PowerPoint. However, it’s not as customizable as I originally hoped while planning. Having only few section types to pick from and limited knowledge of how to capitalize on them made it frustrating at first. 
 It’s major highlight is the scrolling ability and the ability to add high quality engaging and transforming graphics. I realized right away that I needed a source for images. I signed up for a free subscription trial to Shutterstock, which helped a lot!
 
 Data Visualizations: 
