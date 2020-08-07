@@ -33,3 +33,6 @@ An effective way to tell a story that people will remember is through data visua
 
 ### Final, Part 1
 [Link to Part 1](/finalpart1.md)
+
+### Final, Part 2
+[Link to Part 2](/finalpart2.md)
