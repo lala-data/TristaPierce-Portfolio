@@ -3,7 +3,7 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 Published Website: https://tlpierce812.github.io/TristaPierce-Portfolio/.
 
-<img src="Good Profile Pic.jfif" width="200"/>
+<img src="Good Profile Pic.jfif" width="200" class="center"/>
 
 ## About Me
 I'm a current graduate student at CMU, in the Master of Information Science- Business Intelligence and Data Analytics track (MISM-BIDA).
